@@ -1,4 +1,4 @@
-﻿namespace App300822; 
+﻿namespace App092022.Utils; 
 
 public static class InputUtils {
       

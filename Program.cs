@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using App092022.Algorithms;
+using App092022.Utils;
+
+AlgorithmManager.Execute(new List<Algorithm>{
+    new One(),
+});
